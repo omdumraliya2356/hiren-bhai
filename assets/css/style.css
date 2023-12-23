@@ -1,0 +1,37 @@
+.conten-1 h1{
+    text-align: center;
+}
+
+.conten-1{
+    text-align: center;
+}
+
+.add{
+    width: 300px;
+    height: 100px;
+    background-color: grey;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.add-1{
+    width: 300px;
+    height: 250px;
+    background-color: grey;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.watch{
+    margin-top: 20px;
+}
+
+.watch button{
+    border: none;
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+}
